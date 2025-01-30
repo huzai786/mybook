@@ -9,6 +9,7 @@ blue team ctf:\
 [https://cyberdefenders.org/blueteam-ctf-challenges](https://cyberdefenders.org/blueteam-ctf-challenges)\
 [https://malware-traffic-analysis.net/index.html](https://malware-traffic-analysis.net/index.html)\
 [https://blueteamlabs.online/home](https://blueteamlabs.online/home)\
+[https://lab.dynamite.ai/](https://lab.dynamite.ai/)\
 
 
 blue team content:\
