@@ -14,7 +14,8 @@ blue team ctf:\
 
 blue team content:\
 [https://www.youtube.com/@13Cubed](https://www.youtube.com/@13Cubed)\
-[https://www.youtube.com/@SANSForensics](https://www.youtube.com/@SANSForensics)
+[https://www.youtube.com/@SANSForensics](https://www.youtube.com/@SANSForensics)\
+[https://github.com/meirwah/awesome-incident-response](https://github.com/meirwah/awesome-incident-response)
 
 
 
