@@ -14,3 +14,5 @@
 * [Cryptography](cryptography.md)
 * [Linux](linux.md)
 * [Tools](tools.md)
+* [RedTeam](redteam.md)
+* [Computer Science](computer-science.md)
