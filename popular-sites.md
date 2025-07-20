@@ -4,6 +4,8 @@ icon: arrow-up-right-dots
 
 # Popular Sites
 
+[https://pauljerimy.com/security-certification-roadmap/](https://pauljerimy.com/security-certification-roadmap/)
+
 [https://github.com/Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)\
 \
 **OSINT:**\
@@ -41,7 +43,8 @@ icon: arrow-up-right-dots
 [https://www.sidechannel.blog/en/](https://www.sidechannel.blog/en/)\
 [https://www.hackers-arise.com/getting-started](https://www.hackers-arise.com/getting-started)\
 [https://computer.howstuffworks.com](https://computer.howstuffworks.com)\
-[https://depletionmode.com/](https://depletionmode.com/)
+[https://depletionmode.com/](https://depletionmode.com/)\
+[https://thelearningjourneyebooks.com/](https://thelearningjourneyebooks.com/)
 
 **Websites having tools**\
 [https://github.com/robertdavidgraham/masscan](https://github.com/robertdavidgraham/masscan)\

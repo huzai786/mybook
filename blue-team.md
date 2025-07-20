@@ -42,5 +42,7 @@ https://www.youtube.com/watch?v=2NawGCUOYT4\&list=PLIXt8mu2KcUL5-5xyMnwD2yGP1\_\
 https://www.youtube.com/watch?v=I\_nJltUokE0\&ab\_channel=DuncanOgilvie\
 https://www.youtube.com/watch?v=U5dhuyPm6n8\&ab\_channel=Prelude\
 https://www.youtube.com/watch?v=7pQpc1g7foc\&ab\_channel=TheRiddlerLab](https://www.youtube.com/watch?v=H22EXhiQlmE\&list=PLyO5QgjoHu_0dwbdvpSgSt2nTaTAFp-8g\&ab_channel=SamBownehttps://www.youtube.com/watch?v=4AkzIbmI3q4\&list=PLhx7-txsG6t5i-kIZ_hwJSgZrnka4GXvn\&ab_channel=TheSourceLenshttps://www.youtube.com/watch?v=vz15OqiYYXo\&list=PLyXEghr1bwVFrWA8EyfXJSYUD97EO7WUM\&ab_channel=JasmineRicehttps://www.youtube.com/watch?v=2NawGCUOYT4\&list=PLIXt8mu2KcUL5-5xyMnwD2yGP1__45QqO\&ab_channel=DEFCONConferencehttps://www.youtube.com/watch?v=I_nJltUokE0\&ab_channel=DuncanOgilviehttps://www.youtube.com/watch?v=U5dhuyPm6n8\&ab_channel=Preludehttps://www.youtube.com/watch?v=7pQpc1g7foc\&ab_channel=TheRiddlerLab)\
+[https://digitalcorpora.org/](https://digitalcorpora.org/)\
+\
 
 
