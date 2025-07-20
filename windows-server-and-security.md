@@ -40,4 +40,5 @@ icon: briefcase-blank
 [LOLBAS](https://lolbas-project.github.io) \
 [CopperStealer: Password & Cookie Stealer Malware | Proofpoint US](https://www.proofpoint.com/us/blog/threat-insight/now-you-see-it-now-you-dont-copperstealer-performs-widespread-theft) \
 [https://401trg.github.io/pages/an-introduction-to-smb-for-network-security-analysts.html](https://401trg.github.io/pages/an-introduction-to-smb-for-network-security-analysts.html)\
-[https://itfreetraining.com/course/410/](https://itfreetraining.com/course/410/) # windows server course
+[https://itfreetraining.com/course/410/](https://itfreetraining.com/course/410/) # windows server course\
+[https://learn.microsoft.com/en-us/entra/identity/](https://learn.microsoft.com/en-us/entra/identity/)
