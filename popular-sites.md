@@ -85,4 +85,8 @@ icon: arrow-up-right-dots
 [https://docs.google.com/spreadsheets/d/1dwSMIAPIam0PuRBkCiDI88pU3yzrqqHkDtBngUHNCw8/edit?gid=273133724#gid=273133724](https://docs.google.com/spreadsheets/d/1dwSMIAPIam0PuRBkCiDI88pU3yzrqqHkDtBngUHNCw8/edit?gid=273133724#gid=273133724)
 
 **SITES WITH CHALLENGES**\
-[https://www.wechall.net/about\_wechall](https://www.wechall.net/about_wechall)
+[https://www.wechall.net/about\_wechall](https://www.wechall.net/about_wechall)\
+
+
+\
+[https://www.ransomware.live](https://www.ransomware.live/)\
