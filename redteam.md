@@ -15,6 +15,7 @@ icon: redhat
 [https://www.atomicredteam.io/](https://www.atomicredteam.io/)\
 [https://caldera.mitre.org/](https://caldera.mitre.org/)\
 [https://www.purplesharp.com/en/latest/](https://www.purplesharp.com/en/latest/)\
+[https://www.youtube.com/watch?v=iyAyN3GFM7A\&list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN](https://www.youtube.com/watch?v=iyAyN3GFM7A\&list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN)\
 
 
 \
