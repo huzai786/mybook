@@ -7,6 +7,7 @@ icon: arrow-up-right-dots
 [https://pauljerimy.com/security-certification-roadmap/](https://pauljerimy.com/security-certification-roadmap/)
 
 [https://github.com/Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)\
+[https://github.com/sindresorhus/awesome?tab=readme-ov-file#security](https://github.com/sindresorhus/awesome?tab=readme-ov-file#security)\
 \
 **OSINT:**\
 [https://osintframework.com/](https://osintframework.com/)
